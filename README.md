@@ -21,3 +21,5 @@ Leazo is a mobile application designed to simplify the room rental process. It a
 - **Firebase:** Documents storage.
 - **Dart:** Programming language used for Flutter development.
 - **APIs:** Integration with backend RESTful APIs for room listings, user management, and more.
+  
+<img src="Leazo.jpg"> 
