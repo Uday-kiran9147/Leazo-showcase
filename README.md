@@ -1,6 +1,6 @@
-# Leazo - Room Service App
+# Leazo - Search accessible
 
-Leazo is a mobile application designed to simplify the room rental process. It allows users to find and rent rooms with ease, offering features like image picking, authentication, user state management, and a seamless user experience. The app is built using Flutter, Riverpod for state management, and MongoDB for data storage.
+Leazo is a mobile application designed to simplify the **Room search accessible**. It allows users to find and rent rooms with ease, offering features like image picking, authentication, user state management, and a seamless user experience. The app is built using Flutter, Riverpod for state management, and MongoDB for data storage.
 
 ## Features
 
@@ -22,4 +22,4 @@ Leazo is a mobile application designed to simplify the room rental process. It a
 - **Dart:** Programming language used for Flutter development.
 - **APIs:** Integration with backend RESTful APIs for room listings, user management, and more.
   
-<img src="Leazo.jpg"> 
+<img src="Leazo.png"> 
