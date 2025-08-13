@@ -66,7 +66,7 @@ This ensures:
 ---
 
 <p align="center">
-  <img src="Leazo.png" width="500" />
+  <img src="Leazo_Social_Banner.jpg" width="500" />
 </p>
 
 ---
