@@ -1,29 +1,71 @@
-# Leazo - Search accessible
+# 🚪 Leazo – Room Search Made Accessible & Simple  
 
-Leazo is a mobile application designed to simplify the **Room search accessible**. It allows users to find and rent rooms with ease, offering features like image picking, authentication, user state management, and a seamless user experience. The app is built using Flutter, Riverpod for state management, and MongoDB for data storage.
+**Leazo** is a cross-platform mobile application that **redefines the way people search, list, and rent rooms**.  
+Built for both **tenants and landlords**, it delivers a **fast, reliable, and intuitive experience**, with modern UI and scalable backend architecture.  
 
-## Features
+---
 
-- **Room Listings:** View available rooms with detailed descriptions, images, and rental information.
-- **Image Picking:** Easy-to-use functionality for users to upload images of rooms for listings.
-- **Authentication:** Secure login and signup processes for both tenants and landlords.
-- **User State Management:** User sessions and states are managed using Riverpod for a smooth experience.
-- **Error Handling:** Robust error handling ensures that users have a seamless experience, even when something goes wrong.
-- **MongoDB Integration:** All room listings, user data, and associated information are stored in a MongoDB database, providing a flexible and scalable data structure.
-- **Backend Integration:** The app integrates with a backend server using MongoDB ODM (Object Document Mapping) for smooth database operations.
+## ✨ Key Highlights  
 
-## Technologies Used
+- 📍 **Seamless Search** – Find verified rooms with detailed descriptions, pricing, amenities, and images.  
+- 📸 **Image Uploads** – Landlords can upload property images effortlessly for attractive listings.  
+- 🔐 **Secure Authentication** – Role-based login & signup for tenants and landlords.  
+- ⚡ **Smooth State Management** – Riverpod ensures app-wide consistency with minimal performance overhead.  
+- 🛡 **Error Resilience** – Graceful fallback screens and error handlers for uninterrupted usage.  
+- 🗄 **Scalable Storage** – MongoDB with ODM for structured, query-optimized data access.  
+- ☁ **Cloud Integration** – Firebase for document storage and secure image handling.  
+- 🔗 **Robust APIs** – Backend built with clean architecture and RESTful API design for scalability.  
 
-- **Flutter:** Framework used to build the app, providing a native-like experience for iOS and Android.
-- **Riverpod:** State management library for Flutter, providing a scalable and flexible way to manage app state.
-- **MongoDB:** NoSQL database used for storing room listings, user data, and more.
-- **MongoDB ODM (Object Document Mapper):** Used to interact with MongoDB collections and manage data models seamlessly.
-- **Firebase:** Documents storage.
-- **Dart:** Programming language used for Flutter development.
-- **APIs:** Integration with backend RESTful APIs for room listings, user management, and more.
+---
 
-   <img src="1.png" style="margin: 20px; padding: 10px; background-color: #f0f0f0;" width="300">  <img src="2.png" style="margin: 20px; padding: 10px; background-color: #f0f0f0;" width="300">  <img src="3.png" style="margin: 20px; padding: 10px; background-color: #f0f0f0;" width="300">
+## 🛠 Tech Stack  
 
+| Layer              | Technologies |
+|--------------------|--------------|
+| **Frontend**       | Flutter, Dart |
+| **State Mgmt**     | Riverpod |
+| **Backend**        | Node.js, Express.js |
+| **Database**       | MongoDB + ODM |
+| **Cloud Storage**  | Firebase |
+| **APIs**           | RESTful APIs |
+| **Version Control**| Git & GitHub |
 
+---
 
-<img src="Leazo.png"> 
+## 📱 Screenshots  
+
+<p align="center">
+  <img src="1.png" width="250" style="margin: 15px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+  <img src="2.png" width="250" style="margin: 15px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+  <img src="3.png" width="250" style="margin: 15px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+</p>
+
+---
+
+## 🚀 Architecture Overview  
+
+This ensures:  
+- **High Performance** – Optimized queries & async operations.  
+- **Scalability** – Modular architecture for future feature expansion.  
+- **Reliability** – Error handling & retry mechanisms for API calls.  
+
+---
+
+## 📌 Impact & Future Scope  
+
+- **Target Audience:** Students, working professionals, landlords.  
+- **Goal:** Reduce room search time by **70%** through better search filters and real-time listings.  
+- **Upcoming Features:**  
+  - Advanced location-based search  
+  - Chat between landlords and tenants  
+  - AI-based rent predictions  
+
+---
+
+<p align="center">
+  <img src="Leazo.png" width="500" />
+</p>
+
+---
+📧 **Contact:** [udaykiran9147@gmail.com](mailto:udaykiran9147@gmail.com) | 🌐 **Portfolio:** [GitHub](https://github.com/Uday-kiran9147) | 🐦 [Twitter](https://twitter.com/uday_krn)
+
